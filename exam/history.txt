@@ -1,0 +1,42 @@
+   18  mkdir git
+   19  cd git
+   20  git clone https://github.com/mao00214/exam.git
+   22  git push origin master
+   23  git push origin master
+   43  mkdir git
+   44  cd git 
+   45  git clone https://github.com/mao00214/exam.git
+   49  cp -r ~/Documents/exam/* ~/Desktop/git
+   50  cp -r ~/Documents/exam ~/Desktop/git/exam
+   51  cp -r ~/Documents/exam ~/Desktop/git/exam
+   57  git add *
+   58  git commit -m "sfd"
+   59  git push origin master
+   64  git branch v2.0
+   65  git branch 
+   66  git checkout v2.0
+   67  git push origin v2.0
+   68  git checkout master
+   75  git add index.html
+   76  git commit -m "sd"
+   77  git push origin master
+   78  git checkout v2.0
+   79  git merge master
+   80  git push origin v2.0
+   82  git branch v3.0
+   83  git checkout v3.0
+   84  git push origin v3.0
+   86  git add index.html
+   87  git commit -m "df"
+   88  git push origin master
+   89  git checkout v3.0
+   90  git merge master
+   91  git checkout master
+   93  git add index.html
+   94  git commit -m "df"
+   95  git push origin master
+   96  git checkout v3.0
+   97  git merge master
+   98  git merge master -m "dfd"
+  100  git checkout master
+  104  history | grep "git" > history.txt

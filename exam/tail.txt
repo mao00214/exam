@@ -1,0 +1,5 @@
+<title>My Exam</title>
+</head>
+<body></body>
+<script src=”js/js.js”></script>
+</html>
